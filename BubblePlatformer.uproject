@@ -11,5 +11,8 @@
 				"Editor"
 			]
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../../home/joshf/Documents/EpicVault/FabPlugin_5.4"
 	]
 }
