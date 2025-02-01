@@ -14,5 +14,15 @@
 	],
 	"AdditionalPluginDirectories": [
 		"../../../../home/joshf/Documents/EpicVault/FabPlugin_5.4"
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Linux",
+		"LinuxArm64",
+		"Mac",
+		"TVOS",
+		"VisionOS",
+		"Windows"
 	]
 }
